@@ -4,7 +4,7 @@
 ### Aspiring Data Scientist & AI Engineer
 
 BSc (Hons) Data Science Undergraduate  
-London Metropolitan University | ESOFT Metro Campus
+London Metropolitan University | ESOFT UNI
 
 ## About Me
 I'm passionate about Data Science, Artificial Intelligence,
